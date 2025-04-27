@@ -73,4 +73,4 @@ MIT License
 ## Author
 
 **Abdul Arham**  
-> Twitter: [@yourhandle] • GitHub: [yourusername]
+> Twitter: [@iamabdularham] • GitHub: [iamabdularham]
