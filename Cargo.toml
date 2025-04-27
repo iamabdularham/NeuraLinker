@@ -1,0 +1,11 @@
+[package]
+name = "NeuraLinker"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.31.1"
+sysinfo = "0.34.2"
+egui-plotter = "0.4.0"
+plotters = "0.3.7"
+crossterm = "0.26"
