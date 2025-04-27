@@ -1,4 +1,4 @@
-# NeuraLinker Blueprint (New)
+# NeuraLinker Blueprint
 
 ## Modules
 
